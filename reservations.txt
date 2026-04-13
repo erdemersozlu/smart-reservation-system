@@ -1,0 +1,18 @@
+RES Ahmet_Yilmaz 2
+RES Ayse_Kaya 4
+RES Mehmet_Demir 2
+RES Fatma_Sahin 6
+CANCEL Ahmet_Yilmaz
+RES Can_Tekin 2
+RES Elif_Yildiz 4
+CANCEL Ayse_Kaya
+RES Mustafa_Aydin 2
+RES Zeynep_Kilic 8
+RES Ali_Vural 4
+CANCEL Mehmet_Demir
+RES Deniz_Arslan 2
+RES Selin_Guler 3
+RES Mert_Soydan 2
+CANCEL Fatma_Sahin
+RES Gokhan_Eren 6
+RES Busra_Koc 2
