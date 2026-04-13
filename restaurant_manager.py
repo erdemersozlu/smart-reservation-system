@@ -64,7 +64,6 @@ def run_simulation(tables_file, bookings_file):
     return occupancy
 
 def display_final_report(final_state):
-    """Prints the final status of the restaurant tables."""
     print("\n" + "="*40)
     print(f"{'TABLE':<10} | {'STATUS':<25}")
     print("-" * 40)
